@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "JJ McMahon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/me-estes-park-2019.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Who do you think you are? I am!"
   location         : "Edmond, OK"
   email            :
