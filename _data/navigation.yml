@@ -1,6 +1,5 @@
 # main links
 main:
-  main:
   - title: "About Me"
     url: /about/
   - title: "Blog Posts"
@@ -17,3 +16,4 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
