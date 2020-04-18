@@ -1,9 +1,16 @@
 # main links
 main:
+  main:
+  - title: "About Me"
+    url: /about/
+  - title: "Blog Posts"
+    url: /
+  - title: "Tags"
+    url: /tags/
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://jjmcmahon/about/
+  # title: "About"
+  #  url: https://jjmcmahon/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
