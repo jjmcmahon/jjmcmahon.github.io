@@ -5,7 +5,6 @@ tags:
   - Tech
   - Apple
   - iPad
-
 ---
 
 ## So I'm in love with the Apple Magic Keyboard 2 for iPad
