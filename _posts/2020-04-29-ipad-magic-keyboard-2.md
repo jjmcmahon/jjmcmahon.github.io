@@ -40,4 +40,4 @@ This thing isn’t light. I have the 12.9 iPad and with the Magic Keyboard 2, it
 
 ## Conclusion
 
-I’m sure you could tell where this was going based on the title but I must say. I was skeptical due to the price and others mentioning the weight but I have honestly been blown away. I have really enjoyed this and device and it has truly enhanced my experience with the iPad. I would definitely give it a try. 
+I’m sure you could tell where this was going based on the title but I must say, this thing is awesome! I was skeptical due to the price and others mentioning the weight but I have honestly been blown away. I have really enjoyed this and device and it has truly enhanced my experience with the iPad. I would definitely give it a try. 
